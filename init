@@ -1,0 +1,2 @@
+mkdir Store
+ln -srf .readme.md Readme.md
