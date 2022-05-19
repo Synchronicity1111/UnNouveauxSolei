@@ -1,0 +1,6 @@
+[submodule "my.Do"]
+	path = my.Do
+	url = git@github.com:Synchronicity1111/my.Do.git
+[submodule "us"]
+	path = us
+	url = git@github.com:Synchronicity1111/us.git
