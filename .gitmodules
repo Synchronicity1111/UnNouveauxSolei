@@ -4,3 +4,6 @@
 [submodule "us"]
 	path = us
 	url = git@github.com:Synchronicity1111/us.git
+[submodule "Stor"]
+	path = Stor
+	url = git@github.com:Synchronicity1111/Stor.git
